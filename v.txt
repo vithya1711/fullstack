@@ -1,0 +1,7 @@
+public class ipad extends ios
+public void watchmovie(){
+System.out.println("watch movie");
+}
+public ststic void main(String[] args){
+watchmovie wm=new watchmovie();
+wm.wa
